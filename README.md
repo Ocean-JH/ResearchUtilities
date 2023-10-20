@@ -1,2 +1,2 @@
 # ResearchUtilities
-A collection of useful pre- or post-processing scripts used in daily research.
+A collection of useful pre-/post-processing scripts used in daily research.
